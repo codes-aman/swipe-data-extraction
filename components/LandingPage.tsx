@@ -67,7 +67,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
           <div className="relative max-w-5xl mx-auto">
             <div className="relative bg-gradient-to-br from-blue-50 to-indigo-100 rounded-3xl p-8 border border-blue-100 shadow-2xl">
               <img 
-                src="img/hero.webp" 
+                src="https://share.google/images/wSajZOPdoXbrqot8Q" 
                 alt="Swipe AI Dashboard - Create invoices in seconds" 
                 className="rounded-2xl shadow-xl w-full"
               />
