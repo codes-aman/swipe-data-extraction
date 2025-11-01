@@ -1,0 +1,5 @@
+{
+  "name": "InvoiceAI",
+  "description": "An intelligent application that automates the extraction, processing, and management of invoice data from various file formats like images, PDFs, and Excel sheets using Google Gemini.",
+  "requestFramePermissions": []
+}
