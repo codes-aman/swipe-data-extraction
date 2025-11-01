@@ -18,7 +18,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
       {/* Header with Logo */}
       <header className="relative z-10 flex items-center justify-between p-6 max-w-7xl mx-auto">
         <div className="flex items-center space-x-3">
-          <img src="img/logo.svg" alt="Swipe AI Logo" className="h-8 w-auto" />
+          <img src="/img/logo.svg" alt="Swipe AI Logo" className="h-8 w-auto" />
           <span className="text-2xl font-bold text-gray-900"></span>
         </div>
         <div className="hidden md:flex items-center space-x-6 text-sm text-gray-600">
@@ -67,7 +67,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
           <div className="relative max-w-5xl mx-auto">
             <div className="relative bg-gradient-to-br from-blue-50 to-indigo-100 rounded-3xl p-8 border border-blue-100 shadow-2xl">
               <img 
-                src="img/hero.webp" 
+                src="/img/hero.webp" 
                 alt="Swipe AI Dashboard - Create invoices in seconds" 
                 className="rounded-2xl shadow-xl w-full"
               />
